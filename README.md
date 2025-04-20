@@ -1,3 +1,5 @@
+Face Recognition Attendence System
+
 Manual attendance management in the classroom requires a lot of human effort and is prone to mistakes, 
 especially when using a paper-based system. It requires a significant amount of human effort and can lead to 
 inaccuracies. Large classrooms or institutions make this challenge even more difficult to manage efficiently. 
